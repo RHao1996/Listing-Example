@@ -1,6 +1,5 @@
 # Listing-Example
 Test description
-
 # 2015
 
 ## 1.1
